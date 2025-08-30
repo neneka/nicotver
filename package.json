@@ -13,8 +13,7 @@
     "css-loader": "^4.3.0",
     "file-loader": "^6.2.0",
     "mini-css-extract-plugin": "^0.10.1",
-    "node-sass": "^6.0.1",
-    "sass": "^1.51.0",
+    "sass": "^1.91.0",
     "sass-loader": "^10.2.1",
     "size-plugin": "^2.0.2",
     "ts-loader": "^8.3.0",
@@ -24,6 +23,6 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "@xpadev-net/niconicomments": "^0.2.4"
+    "@xpadev-net/niconicomments": "0.2.49"
   }
 }
